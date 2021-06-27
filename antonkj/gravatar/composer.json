@@ -1,0 +1,26 @@
+{
+    "name": "antonkj/yii2-gravatar",
+    "description": "Gravatar Widget for Yii 2",
+	"keywords": ["yii", "gravatar"],
+	"type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Devcoder",
+            "email": "discount.anton@gmail.com"
+        }
+    ],
+	"support": {
+		"issues": "https://github.com/antonkj/yii2-gravatar/issues",
+		"irc": "irc://irc.freenode.net/yii",
+		"source": "https://github.com/antonkj/yii2-gravatar"
+	},
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+	"autoload": {
+		"psr-0": { "antonkj\\gravatar\\": "" }
+	},
+	"target-dir": "antonkj/gravatar"
+}
+
